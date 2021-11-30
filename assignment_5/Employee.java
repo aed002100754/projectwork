@@ -12,6 +12,7 @@ public class Employee {
     
     private String name;
     private int id;
+    private int phn;
     private static int count = 1;
 
     public Employee() {
